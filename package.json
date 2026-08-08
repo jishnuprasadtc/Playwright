@@ -1,0 +1,22 @@
+{
+  "name": "testing-folder",
+  "version": "1.0.0",
+  "description": "Playwright purpose",
+  "homepage": "https://github.com/jishnuprasadtc/Playwright#readme",
+  "bugs": {
+    "url": "https://github.com/jishnuprasadtc/Playwright/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jishnuprasadtc/Playwright.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {},
+  "devDependencies": {
+    "@playwright/test": "^1.62.1",
+    "@types/node": "^26.2.0"
+  }
+}
